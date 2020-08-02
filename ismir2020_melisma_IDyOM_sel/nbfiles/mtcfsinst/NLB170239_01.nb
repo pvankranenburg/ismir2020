@@ -1,0 +1,112 @@
+Beat      0  4
+Beat    140  0
+Beat    315  1
+Beat    490  0
+Beat    665  1
+Beat    840  0
+Beat   1015  2
+Beat   1155  0
+Beat   1330  1
+Beat   1505  0
+Beat   1680  1
+Beat   1820  0
+Beat   1995  3
+Beat   2135  0
+Beat   2310  1
+Beat   2485  0
+Beat   2660  1
+Beat   2835  0
+Beat   3010  2
+Beat   3150  0
+Beat   3325  1
+Beat   3500  0
+Beat   3675  1
+Beat   3815  0
+Beat   3990  4
+Beat   4130  0
+Beat   4305  1
+Beat   4480  0
+Beat   4655  1
+Beat   4830  0
+Beat   5005  2
+Beat   5145  0
+Beat   5320  1
+Beat   5495  0
+Beat   5670  1
+Beat   5810  0
+Beat   5985  3
+Beat   6230  0
+Beat   6475  1
+Beat   6720  0
+Beat   7000  2
+Beat   7245  0
+Beat   7490  1
+Beat   7735  0
+Beat   7980  4
+Beat   8225  0
+Beat   8470  1
+Beat   8715  0
+Beat   8995  2
+Beat   9170  0
+Beat   9345  1
+Beat   9485  0
+Beat   9660  1
+Beat   9835  0
+Beat  10010  3
+Beat  10150  0
+Beat  10325  1
+Beat  10465  0
+Beat  10640  1
+Beat  10815  0
+Beat  10990  2
+Beat  11130  0
+Beat  11305  1
+Beat  11480  0
+Beat  11655  1
+Beat  11830  0
+Beat  12005  4
+Beat  12145  0
+Beat  12320  1
+Beat  12495  0
+Beat  12670  1
+Beat  12810  0
+Beat  12985  2
+Beat  13125  0
+Beat  13300  1
+Beat  13475  0
+Beat  13650  1
+Beat  13825  0
+Beat  14000  3
+Beat  14140  0
+Beat  14315  1
+Beat  14455  0
+Beat  14630  1
+Beat  14805  0
+Beat  14980  2
+Note      0   1015  62
+Note   1015   1330  66
+Note   1330   1680  66
+Note   1680   1995  67
+Note   1995   3010  69
+Note   3010   3675  66
+Note   3675   3990  66
+Note   3990   5005  67
+Note   5005   5670  64
+Note   5670   5985  64
+Note   5985   7000  66
+Note   7000   7490  62
+|
+Note   7980   8995  62
+Note   8995   9345  66
+Note   9345   9660  66
+Note   9660  10010  67
+Note  10010  10990  69
+Note  10990  11655  66
+Note  11655  12005  66
+Note  12005  12670  67
+Note  12670  12985  67
+Note  12985  13650  64
+Note  13650  14000  64
+Note  14000  14980  62
+|
+

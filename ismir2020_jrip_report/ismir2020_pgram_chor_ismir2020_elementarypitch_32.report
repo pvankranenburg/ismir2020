@@ -1,0 +1,80 @@
+
+Options: -N 32 
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+(intervalfourth >= 3) and (VosCenterGravityfourth = False) and (VosCenterGravitythird = True) and (intervalfifth >= 0) => cadence_class=midcadence (252.0/34.0)
+(intervaldirthirdfourth = +) and (VosHarmonyfourth >= 4) and (VosCenterGravityfourth = False) and (contourthird = -) and (VosHarmonythird <= 3) => cadence_class=midcadence (186.0/43.0)
+(intervaldirthirdfourth = +) and (VosHarmonyfourth >= 4) and (VosCenterGravityfourth = False) and (VosCenterGravitythird = True) and (scaledegreefourth >= 5) and (scaledegreefourth <= 5) => cadence_class=midcadence (13.0/2.0)
+(intervaldirthirdfourth = +) and (intervaldirfourthfifth = +) and (scaledegreefifth <= 4) and (VosCenterGravityfifth = True) => cadence_class=midcadence (147.0/24.0)
+(VosHarmonyfourth >= 4) and (contourthird = -) and (contourfirst = -) and (containsleap = False) => cadence_class=midcadence (209.0/73.0)
+(diatonicpitchthirdfourth = =) and (intervalfifth >= 0) and (VosCenterGravitythird = True) and (VosHarmonysecondthird = =) => cadence_class=midcadence (186.0/75.0)
+(VosHarmonyfourth >= 4) and (contourfourth = +) and (scaledegreesecond <= 4) and (contourfirst = -) and (containsleap = False) => cadence_class=midcadence (133.0/50.0)
+(diatonicpitchthirdfourth = =) and (intervalfifth >= 0) and (contourthird = -) and (scaledegreesecond >= 6) => cadence_class=midcadence (81.0/36.0)
+ => cadence_class=nocadence (16155.0/1037.0)
+
+Number of Rules : 9
+
+
+Time taken to build model: 2.11 seconds
+
+Time taken to test model on training data: 0.09 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances       15988               92.0862 %
+Incorrectly Classified Instances      1374                7.9138 %
+Kappa statistic                          0.5177
+Mean absolute error                      0.138 
+Root mean squared error                  0.2627
+Relative absolute error                 70.5685 %
+Root relative squared error             84.0126 %
+Total Number of Instances            17362     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,456    0,022    0,721      0,456    0,559      0,534    0,719     0,429     midcadence
+                 0,978    0,544    0,936      0,978    0,957      0,534    0,719     0,935     nocadence
+Weighted Avg.    0,921    0,486    0,912      0,921    0,913      0,534    0,719     0,880     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+   870  1037 |     a = midcadence
+   337 15118 |     b = nocadence
+
+Time taken to perform cross-validation: 6.64 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances       15944               91.8327 %
+Incorrectly Classified Instances      1418                8.1673 %
+Kappa statistic                          0.5249
+Mean absolute error                      0.1352
+Root mean squared error                  0.2635
+Relative absolute error                 69.1264 %
+Root relative squared error             84.2557 %
+Total Number of Instances            17362     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,490    0,029    0,677      0,490    0,569      0,533    0,738     0,448     midcadence
+                 0,971    0,510    0,939      0,971    0,955      0,533    0,738     0,940     nocadence
+Weighted Avg.    0,918    0,457    0,910      0,918    0,912      0,533    0,738     0,886     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+   935   972 |     a = midcadence
+   446 15009 |     b = nocadence
+

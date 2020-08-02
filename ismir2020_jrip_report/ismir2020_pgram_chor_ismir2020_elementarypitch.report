@@ -1,0 +1,76 @@
+
+Options: -N 64 
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+(intervalfourth >= 3) and (VosCenterGravityfourth = False) and (VosCenterGravitythird = True) => cadence_class=midcadence (434.0/91.0)
+(intervaldirthirdfourth = +) and (intervaldirfourthfifth = +) => cadence_class=midcadence (425.0/175.0)
+(VosHarmonyfourth >= 4) and (contourfourth = +) and (contourfirst = -) and (containsleap = False) and (VosHarmonythird >= 2) => cadence_class=midcadence (236.0/69.0)
+(VosHarmonyfourth >= 4) and (intervalthird <= 0) and (scaledegreefourth >= 5) and (VosHarmonysecondthird = -) => cadence_class=midcadence (200.0/96.0)
+ => cadence_class=nocadence (16067.0/1043.0)
+
+Number of Rules : 5
+
+
+Time taken to build model: 1.45 seconds
+
+Time taken to test model on training data: 0.1 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances       15888               91.5102 %
+Incorrectly Classified Instances      1474                8.4898 %
+Kappa statistic                          0.4948
+Mean absolute error                      0.1439
+Root mean squared error                  0.2682
+Relative absolute error                 73.558  %
+Root relative squared error             85.7736 %
+Total Number of Instances            17362     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,453    0,028    0,667      0,453    0,540      0,506    0,714     0,396     midcadence
+                 0,972    0,547    0,935      0,972    0,953      0,506    0,714     0,934     nocadence
+Weighted Avg.    0,915    0,490    0,906      0,915    0,908      0,506    0,714     0,875     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+   864  1043 |     a = midcadence
+   431 15024 |     b = nocadence
+
+Time taken to perform cross-validation: 3.54 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances       15847               91.274  %
+Incorrectly Classified Instances      1515                8.726  %
+Kappa statistic                          0.4672
+Mean absolute error                      0.1481
+Root mean squared error                  0.2733
+Relative absolute error                 75.7116 %
+Root relative squared error             87.3959 %
+Total Number of Instances            17362     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,417    0,026    0,663      0,417    0,512      0,482    0,707     0,392     midcadence
+                 0,974    0,583    0,931      0,974    0,952      0,482    0,707     0,934     nocadence
+Weighted Avg.    0,913    0,521    0,902      0,913    0,904      0,482    0,707     0,874     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+   796  1111 |     a = midcadence
+   404 15051 |     b = nocadence
+

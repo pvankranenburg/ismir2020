@@ -1,0 +1,2529 @@
+Phrase 12005 
+Phrase 21000 
+(FN)
+Phrase 33005 (FP) 
+(FN)
+Phrase 45010 (FP) 
+(FN)
+Phrase 57015 (FP) 
+(FN)
+Phrase 12005 (FP) 
+(FN)
+Phrase 19985 (FP) 
+(FN)
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+(FN)
+Phrase 50995 (FP) 
+(FN)
+Phrase 59010 (FP) 
+Phrase 66990 (FP) 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+(FN)
+Phrase 47985 (FP) 
+(FN)
+Phrase 59990 (FP) 
+(FN)
+Phrase 71995 (FP) 
+(FN)
+Phrase 87010 
+Phrase 99015 
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 40005 
+Phrase 47985 
+(FN)
+Phrase 59990 (FP) 
+(FN)
+Phrase 70000 (FP) 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+(FN)
+Phrase 12005 (FP) 
+Phrase 19985 
+(FN)
+Phrase 31990 (FP) 
+Phrase 40005 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 31990 
+(FN)
+Phrase 43995 (FP) 
+(FN)
+Phrase 57995 (FP) 
+(FN)
+Phrase 71995 
+(FN)
+Phrase 96005 
+(FN)
+Phrase 12985 
+(FN)
+Phrase 24010 (FP) 
+(FN)
+Phrase 36015 (FP) 
+Phrase 12005 
+Phrase 19985 (FP) 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+(FN)
+Phrase 52010 (FP) 
+(FN)
+Phrase 8015 
+Phrase 19985 
+(FN)
+(FN)
+Phrase 31990 (FP) 
+(FN)
+Phrase 43995 
+Phrase 8015 
+Phrase 17010 
+(FN)
+Phrase 24990 (FP) 
+(FN)
+Phrase 33005 (FP) 
+Phrase 40985 
+Phrase 12005 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+Phrase 12005 
+Phrase 21000 (FP) 
+(FN)
+Phrase 33005 (FP) 
+(FN)
+Phrase 45010 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 36015 
+Phrase 43995 
+Phrase 8015 
+(FN)
+Phrase 17990 (FP) 
+(FN)
+Phrase 28000 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+(FN)
+Phrase 38990 (FP) 
+Phrase 47005 (FP) 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 (FP) 
+(FN)
+Phrase 19985 
+Phrase 28000 (FP) 
+(FN)
+Phrase 40005 
+Phrase 47985 
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 36015 (FP) 
+(FN)
+(FN)
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 36015 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 (FP) 
+(FN)
+Phrase 12005 
+Phrase 24010 
+Phrase 35000 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+Phrase 8015 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 12005 
+Phrase 19985 (FP) 
+(FN)
+Phrase 31990 
+(FN)
+Phrase 43995 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+(FN)
+Phrase 19985 
+(FN)
+Phrase 31990 
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 40005 
+(FN)
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 24010 
+Phrase 8015 
+Phrase 19985 
+Phrase 28000 (FP) 
+(FN)
+Phrase 36995 (FP) 
+(FN)
+Phrase 45010 (FP) 
+(FN)
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+Phrase 24010 
+Phrase 10010 
+Phrase 19985 
+Phrase 28000 
+Phrase 33985 
+Phrase 45990 (FP) 
+Phrase 56000 (FP) 
+Phrase 3010 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+Phrase 8015 
+Phrase 15995 
+Phrase 24990 (FP) 
+(FN)
+Phrase 33005 (FP) 
+(FN)
+Phrase 40985 (FP) 
+(FN)
+Phrase 50995 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 26005 (FP) 
+Phrase 31010 
+(FN)
+Phrase 38990 (FP) 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+Phrase 8995 
+(FN)
+Phrase 17010 (FP) 
+(FN)
+Phrase 24990 (FP) 
+Phrase 35000 
+Phrase 8015 
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+(FN)
+Phrase 57015 (FP) 
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+(FN)
+Phrase 8015 
+Phrase 19005 (FP) 
+(FN)
+(FN)
+Phrase 26985 (FP) 
+(FN)
+Phrase 38990 (FP) 
+Phrase 12005 
+Phrase 24010 
+Phrase 33985 (FP) 
+Phrase 40005 
+Phrase 45990 (FP) 
+(FN)
+Phrase 8015 
+Phrase 17010 
+Phrase 24990 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+(FN)
+Phrase 57995 (FP) 
+(FN)
+Phrase 66010 (FP) 
+(FN)
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+Phrase 22995 (FP) 
+(FN)
+Phrase 35000 (FP) 
+(FN)
+Phrase 8015 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+Phrase 10010 
+Phrase 19985 
+Phrase 28000 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15015 (FP) 
+(FN)
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 (FP) 
+(FN)
+Phrase 12005 
+Phrase 19985 
+Phrase 28000 
+(FN)
+Phrase 12005 
+Phrase 19985 
+Phrase 31990 
+Phrase 43995 
+Phrase 52010 
+Phrase 59990 
+Phrase 71995 
+Phrase 84000 
+(FN)
+(FN)
+Phrase 12985 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 33005 
+Phrase 40985 (FP) 
+(FN)
+Phrase 52990 
+Phrase 61005 
+Phrase 70000 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+(FN)
+Phrase 43015 (FP) 
+(FN)
+Phrase 50995 (FP) 
+Phrase 7000 (FP) 
+(FN)
+(FN)
+Phrase 17010 (FP) 
+(FN)
+Phrase 24990 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 (FP) 
+(FN)
+Phrase 19985 
+(FN)
+Phrase 31990 (FP) 
+(FN)
+Phrase 8015 (FP) 
+(FN)
+Phrase 19985 
+Phrase 28000 
+Phrase 36015 
+Phrase 43995 (FP) 
+(FN)
+Phrase 12005 
+Phrase 19985 
+Phrase 28000 
+(FN)
+Phrase 36015 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+Phrase 22995 (FP) 
+(FN)
+Phrase 35000 (FP) 
+(FN)
+Phrase 12005 
+(FN)
+Phrase 24010 (FP) 
+Phrase 36015 
+Phrase 47985 
+(FN)
+Phrase 59990 (FP) 
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 42000 
+Phrase 52010 
+Phrase 61985 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+Phrase 12005 
+Phrase 22995 
+Phrase 29015 (FP) 
+(FN)
+Phrase 36995 
+Phrase 42000 (FP) 
+(FN)
+Phrase 54005 (FP) 
+Phrase 8015 
+(FN)
+Phrase 24010 
+(FN)
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+Phrase 8015 
+Phrase 15995 
+Phrase 24990 
+(FN)
+Phrase 33005 
+Phrase 45010 (FP) 
+(FN)
+Phrase 12005 
+Phrase 22995 
+Phrase 35000 
+Phrase 47005 
+Phrase 54985 
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 36015 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 31990 
+Phrase 40005 
+Phrase 5985 (FP) 
+Phrase 14000 (FP) 
+(FN)
+Phrase 21000 
+Phrase 29995 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 50995 
+Phrase 59990 
+Phrase 66990 
+Phrase 78995 (FP) 
+(FN)
+Phrase 89005 
+Phrase 96005 
+Phrase 103985 (FP) 
+(FN)
+Phrase 12005 (FP) 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 10010 (FP) 
+(FN)
+Phrase 22015 (FP) 
+(FN)
+(FN)
+Phrase 40005 (FP) 
+Phrase 3990 (FP) 
+(FN)
+Phrase 12005 (FP) 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 (FP) 
+(FN)
+Phrase 12005 
+Phrase 19985 (FP) 
+(FN)
+Phrase 29015 (FP) 
+(FN)
+Phrase 36995 
+Phrase 43015 (FP) 
+Phrase 50995 
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 31990 
+Phrase 40005 
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 36015 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 49000 (FP) 
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 5985 (FP) 
+(FN)
+Phrase 24010 
+Phrase 36015 
+Phrase 47005 
+Phrase 52990 (FP) 
+(FN)
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 8995 (FP) 
+(FN)
+Phrase 19985 
+Phrase 28000 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+Phrase 22995 (FP) 
+(FN)
+Phrase 35000 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+Phrase 8015 
+Phrase 15995 
+Phrase 28000 
+Phrase 36015 
+Phrase 43995 
+Phrase 52010 
+Phrase 59990 
+(FN)
+Phrase 68005 (FP) 
+(FN)
+Phrase 80010 (FP) 
+(FN)
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+Phrase 47985 
+Phrase 59990 
+Phrase 71995 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 10010 (FP) 
+(FN)
+Phrase 15995 (FP) 
+Phrase 22995 (FP) 
+(FN)
+Phrase 35000 (FP) 
+(FN)
+Phrase 12005 
+Phrase 19985 
+Phrase 28000 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 36015 (FP) 
+(FN)
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+(FN)
+Phrase 47985 (FP) 
+(FN)
+Phrase 59990 (FP) 
+Phrase 66010 
+Phrase 78015 
+(FN)
+Phrase 89985 (FP) 
+Phrase 99015 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 5985 (FP) 
+(FN)
+Phrase 14000 (FP) 
+(FN)
+Phrase 22015 (FP) 
+Phrase 26005 
+(FN)
+Phrase 33985 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+Phrase 64015 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+Phrase 6510 (FP) 
+(FN)
+Phrase 14490 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38500 (FP) 
+(FN)
+Phrase 46515 (FP) 
+(FN)
+Phrase 54495 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+(FN)
+Phrase 10010 
+Phrase 19005 (FP) 
+(FN)
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 43015 (FP) 
+(FN)
+Phrase 8995 (FP) 
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+(FN)
+Phrase 33985 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 49000 (FP) 
+Phrase 8015 
+(FN)
+Phrase 17010 (FP) 
+(FN)
+Phrase 29015 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 31990 
+(FN)
+Phrase 19985 
+Phrase 8015 
+Phrase 19985 
+Phrase 28000 
+(FN)
+Phrase 14000 
+Phrase 22015 
+Phrase 31990 (FP) 
+(FN)
+Phrase 43995 
+Phrase 56000 
+Phrase 66010 
+Phrase 73990 
+(FN)
+Phrase 85995 
+Phrase 96005 (FP) 
+(FN)
+Phrase 108010 
+(FN)
+Phrase 122010 
+Phrase 129990 (FP) 
+(FN)
+Phrase 138005 
+Phrase 150010 
+Phrase 8015 (FP) 
+(FN)
+Phrase 17990 
+Phrase 29015 
+Phrase 38010 
+Phrase 47985 
+Phrase 56000 (FP) 
+(FN)
+Phrase 66010 (FP) 
+(FN)
+Phrase 78015 
+Phrase 89985 
+Phrase 101990 
+Phrase 110985 
+(FN)
+Phrase 8015 (FP) 
+(FN)
+Phrase 19985 
+Phrase 28000 (FP) 
+(FN)
+Phrase 40005 
+Phrase 47985 
+(FN)
+Phrase 8015 (FP) 
+Phrase 15995 
+(FN)
+Phrase 26005 (FP) 
+(FN)
+Phrase 36015 (FP) 
+(FN)
+Phrase 47985 
+(FN)
+Phrase 56000 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 12005 
+(FN)
+Phrase 31990 
+(FN)
+Phrase 43995 
+Phrase 54005 
+(FN)
+Phrase 66010 
+(FN)
+Phrase 78015 (FP) 
+Phrase 8015 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 (FP) 
+(FN)
+Phrase 10010 
+(FN)
+Phrase 17990 
+Phrase 26005 
+Phrase 36015 
+(FN)
+Phrase 43995 
+(FN)
+Phrase 12005 (FP) 
+(FN)
+Phrase 24010 
+(FN)
+Phrase 36015 (FP) 
+(FN)
+(FN)
+Phrase 12005 
+Phrase 19985 (FP) 
+(FN)
+Phrase 31990 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+Phrase 12985 
+Phrase 24990 
+(FN)
+Phrase 36995 (FP) 
+Phrase 49000 
+(FN)
+Phrase 61005 (FP) 
+Phrase 73010 
+Phrase 85015 
+Phrase 10010 
+Phrase 19985 
+Phrase 29995 
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 10010 
+Phrase 19985 
+Phrase 28000 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 40005 
+Phrase 8015 
+Phrase 19985 
+Phrase 28000 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 8015 
+Phrase 19985 
+Phrase 28000 
+Phrase 8015 
+Phrase 15995 (FP) 
+(FN)
+Phrase 26005 
+Phrase 33985 (FP) 
+(FN)
+Phrase 43995 
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 14000 (FP) 
+(FN)
+Phrase 31990 (FP) 
+(FN)
+Phrase 47985 
+Phrase 59990 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 8995 
+(FN)
+Phrase 17010 (FP) 
+(FN)
+Phrase 24990 (FP) 
+Phrase 33005 
+Phrase 40985 
+Phrase 49000 
+(FN)
+Phrase 57015 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 8995 
+(FN)
+Phrase 19005 (FP) 
+(FN)
+Phrase 29015 (FP) 
+(FN)
+Phrase 17990 (FP) 
+(FN)
+Phrase 36015 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+(FN)
+Phrase 26985 (FP) 
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+(FN)
+Phrase 12005 (FP) 
+(FN)
+Phrase 24010 
+(FN)
+Phrase 36015 (FP) 
+(FN)
+Phrase 43995 (FP) 
+(FN)
+Phrase 8015 
+(FN)
+Phrase 24010 
+(FN)
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+(FN)
+Phrase 12005 
+Phrase 24010 
+(FN)
+Phrase 8015 
+(FN)
+Phrase 19985 (FP) 
+(FN)
+Phrase 31990 
+Phrase 40005 
+(FN)
+Phrase 52010 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 5005 
+(FN)
+Phrase 17010 
+(FN)
+Phrase 29015 
+(FN)
+Phrase 40985 
+Phrase 8015 
+Phrase 15995 (FP) 
+(FN)
+(FN)
+Phrase 28000 (FP) 
+Phrase 36015 
+Phrase 43995 
+(FN)
+Phrase 15015 
+(FN)
+Phrase 29995 
+(FN)
+Phrase 42000 (FP) 
+(FN)
+Phrase 10990 
+Phrase 19005 
+Phrase 26985 
+Phrase 35000 
+Phrase 8015 
+Phrase 19985 
+Phrase 28000 
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+Phrase 8015 
+Phrase 19985 
+Phrase 28000 
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+Phrase 10990 
+Phrase 22995 
+(FN)
+Phrase 38990 
+Phrase 47005 
+(FN)
+(FN)
+Phrase 59010 
+Phrase 8015 
+(FN)
+Phrase 19985 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 8015 
+Phrase 17010 
+(FN)
+Phrase 24990 (FP) 
+(FN)
+Phrase 33005 (FP) 
+Phrase 40985 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 10990 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 43015 (FP) 
+(FN)
+Phrase 12005 (FP) 
+(FN)
+Phrase 19985 (FP) 
+(FN)
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 8015 
+(FN)
+Phrase 24010 
+(FN)
+Phrase 40005 
+(FN)
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 36015 (FP) 
+(FN)
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+(FN)
+Phrase 12005 
+(FN)
+Phrase 24010 
+Phrase 35000 (FP) 
+Phrase 12005 
+Phrase 24010 
+(FN)
+Phrase 36015 
+Phrase 8015 
+(FN)
+Phrase 17010 (FP) 
+(FN)
+(FN)
+Phrase 33005 
+Phrase 45010 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 7000 
+Phrase 15995 
+(FN)
+Phrase 26005 (FP) 
+(FN)
+Phrase 40985 
+Phrase 47005 (FP) 
+(FN)
+Phrase 52990 (FP) 
+(FN)
+Phrase 61985 (FP) 
+(FN)
+Phrase 68005 (FP) 
+(FN)
+Phrase 80990 
+(FN)
+(FN)
+Phrase 89985 (FP) 
+(FN)
+Phrase 98000 (FP) 
+(FN)
+Phrase 110005 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 50015 
+Phrase 57995 
+Phrase 12005 
+(FN)
+Phrase 26985 (FP) 
+(FN)
+Phrase 38990 (FP) 
+Phrase 50995 
+(FN)
+Phrase 12005 (FP) 
+(FN)
+(FN)
+Phrase 24010 (FP) 
+(FN)
+Phrase 36015 
+(FN)
+Phrase 47985 (FP) 
+(FN)
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+(FN)
+Phrase 35000 (FP) 
+(FN)
+Phrase 47005 (FP) 
+(FN)
+(FN)
+Phrase 59010 (FP) 
+(FN)
+Phrase 71015 (FP) 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 31990 
+(FN)
+Phrase 47985 
+(FN)
+Phrase 64015 
+(FN)
+Phrase 92015 (FP) 
+(FN)
+(FN)
+Phrase 14000 (FP) 
+(FN)
+Phrase 26005 (FP) 
+(FN)
+Phrase 42000 
+(FN)
+Phrase 54005 (FP) 
+Phrase 8995 (FP) 
+(FN)
+Phrase 19985 
+Phrase 28000 
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 40005 
+Phrase 47985 (FP) 
+(FN)
+Phrase 56000 (FP) 
+(FN)
+Phrase 66010 (FP) 
+(FN)
+Phrase 73990 (FP) 
+(FN)
+Phrase 82005 (FP) 
+(FN)
+Phrase 92015 
+(FN)
+Phrase 101990 (FP) 
+(FN)
+Phrase 112490 (FP) 
+(FN)
+Phrase 120995 (FP) 
+(FN)
+Phrase 131005 (FP) 
+(FN)
+Phrase 138985 (FP) 
+(FN)
+Phrase 147000 (FP) 
+(FN)
+(FN)
+Phrase 159005 (FP) 
+(FN)
+Phrase 166985 (FP) 
+(FN)
+Phrase 175000 (FP) 
+(FN)
+(FN)
+Phrase 12005 
+(FN)
+Phrase 24010 
+Phrase 36015 
+(FN)
+Phrase 43995 (FP) 
+(FN)
+Phrase 52010 
+Phrase 12005 
+Phrase 17990 (FP) 
+(FN)
+Phrase 36015 
+Phrase 5005 (FP) 
+Phrase 14000 
+Phrase 26005 
+Phrase 38990 
+(FN)
+Phrase 57015 
+Phrase 8015 (FP) 
+(FN)
+Phrase 15995 (FP) 
+Phrase 24010 
+Phrase 36015 
+Phrase 43505 (FP) 
+(FN)
+Phrase 15995 
+Phrase 28000 
+(FN)
+Phrase 43995 
+Phrase 52010 
+Phrase 10990 
+Phrase 22995 
+(FN)
+Phrase 33985 (FP) 
+(FN)
+Phrase 45990 
+Phrase 54005 
+Phrase 8015 
+(FN)
+Phrase 19985 (FP) 
+(FN)
+Phrase 31990 (FP) 
+(FN)
+Phrase 42000 
+(FN)
+Phrase 12005 
+Phrase 24990 
+(FN)
+Phrase 36995 (FP) 
+Phrase 8015 (FP) 
+(FN)
+Phrase 21000 
+Phrase 31010 
+(FN)
+Phrase 50995 
+Phrase 59010 
+(FN)
+Phrase 70000 (FP) 
+(FN)
+Phrase 78015 (FP) 
+(FN)
+Phrase 89985 
+Phrase 99015 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 50995 
+Phrase 59990 
+Phrase 66990 
+Phrase 78995 (FP) 
+(FN)
+Phrase 89005 
+Phrase 96005 
+Phrase 103985 (FP) 
+(FN)
+Phrase 15015 
+(FN)
+Phrase 29015 
+Phrase 36995 
+Phrase 45010 
+Phrase 57015 
+Phrase 68985 
+Phrase 75005 
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+Phrase 8015 (FP) 
+(FN)
+Phrase 17990 
+Phrase 26005 
+Phrase 33985 (FP) 
+(FN)
+Phrase 45990 
+Phrase 54005 
+Phrase 10010 (FP) 
+(FN)
+Phrase 22015 (FP) 
+(FN)
+Phrase 29995 
+Phrase 10990 (FP) 
+(FN)
+Phrase 24010 
+Phrase 36015 
+Phrase 47985 
+Phrase 59990 
+Phrase 71995 
+Phrase 84000 
+Phrase 8015 
+(FN)
+Phrase 19985 (FP) 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+(FN)
+Phrase 15015 
+(FN)
+Phrase 29995 
+Phrase 42000 
+(FN)
+Phrase 8015 
+Phrase 19985 
+(FN)
+Phrase 31990 
+(FN)
+(FN)
+Phrase 40985 (FP) 
+(FN)
+(FN)
+Phrase 49000 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 8015 
+(FN)
+Phrase 19985 (FP) 
+(FN)
+Phrase 31990 
+Phrase 8015 
+(FN)
+Phrase 19985 (FP) 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 8015 
+(FN)
+Phrase 24010 
+Phrase 31990 (FP) 
+(FN)
+Phrase 45990 
+Phrase 59990 
+Phrase 68005 
+Phrase 12005 
+Phrase 8015 (FP) 
+(FN)
+Phrase 15995 (FP) 
+Phrase 24010 
+Phrase 35000 (FP) 
+(FN)
+Phrase 47005 (FP) 
+(FN)
+Phrase 59010 (FP) 
+(FN)
+Phrase 71015 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+(FN)
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 40005 
+Phrase 47985 
+(FN)
+Phrase 10990 (FP) 
+(FN)
+(FN)
+Phrase 22995 (FP) 
+(FN)
+(FN)
+(FN)
+Phrase 35000 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 5985 
+Phrase 17990 
+Phrase 29995 (FP) 
+Phrase 42000 
+(FN)
+Phrase 56000 (FP) 
+(FN)
+Phrase 68005 (FP) 
+(FN)
+Phrase 80010 (FP) 
+Phrase 89005 (FP) 
+(FN)
+Phrase 101990 
+(FN)
+(FN)
+Phrase 12005 (FP) 
+(FN)
+Phrase 24990 
+(FN)
+Phrase 33005 (FP) 
+Phrase 43015 
+(FN)
+(FN)
+Phrase 56000 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+(FN)
+Phrase 43995 (FP) 
+(FN)
+Phrase 56000 
+Phrase 10010 (FP) 
+(FN)
+Phrase 22015 (FP) 
+(FN)
+Phrase 31990 
+Phrase 8015 
+(FN)
+Phrase 19985 (FP) 
+(FN)
+Phrase 31990 
+(FN)
+Phrase 43995 (FP) 
+(FN)
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+Phrase 47985 
+Phrase 56000 
+(FN)
+Phrase 68005 (FP) 
+Phrase 75985 
+Phrase 84000 
+Phrase 92995 (FP) 
+Phrase 5005 (FP) 
+(FN)
+(FN)
+Phrase 17010 (FP) 
+(FN)
+(FN)
+Phrase 24990 (FP) 
+Phrase 33005 (FP) 
+(FN)
+Phrase 43015 (FP) 
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+Phrase 47985 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+(FN)
+Phrase 43995 (FP) 
+(FN)
+Phrase 56000 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 8015 
+Phrase 14000 (FP) 
+(FN)
+Phrase 26005 
+Phrase 33985 
+Phrase 42000 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 24010 (FP) 
+(FN)
+(FN)
+Phrase 31990 (FP) 
+(FN)
+Phrase 40005 (FP) 
+Phrase 5495 (FP) 
+(FN)
+Phrase 13510 (FP) 
+(FN)
+Phrase 17010 (FP) 
+Phrase 22995 (FP) 
+(FN)
+Phrase 29505 (FP) 
+(FN)
+Phrase 33985 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+(FN)
+Phrase 54985 (FP) 
+(FN)
+Phrase 63000 (FP) 
+Phrase 73010 (FP) 
+Phrase 84000 
+Phrase 94010 (FP) 
+Phrase 10010 
+Phrase 19985 
+Phrase 29995 
+Phrase 40005 
+Phrase 50015 
+Phrase 59990 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 (FP) 
+(FN)
+Phrase 10010 (FP) 
+(FN)
+Phrase 22015 (FP) 
+(FN)
+(FN)
+Phrase 40005 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+(FN)
+Phrase 56000 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 50995 
+Phrase 59990 
+Phrase 66990 
+Phrase 78995 (FP) 
+(FN)
+Phrase 89005 
+Phrase 96005 
+Phrase 103985 (FP) 
+Phrase 5985 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+Phrase 29995 (FP) 
+(FN)
+Phrase 38990 (FP) 
+Phrase 5005 (FP) 
+(FN)
+Phrase 17010 
+(FN)
+Phrase 29015 (FP) 
+(FN)
+Phrase 40985 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 8015 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 (FP) 
+(FN)
+Phrase 8015 
+Phrase 14000 
+Phrase 22015 
+Phrase 28000 
+Phrase 36015 
+Phrase 42000 
+Phrase 8015 
+Phrase 19985 
+Phrase 28000 (FP) 
+(FN)
+Phrase 40005 
+Phrase 47985 
+(FN)
+Phrase 12005 (FP) 
+(FN)
+Phrase 24010 
+Phrase 31990 
+(FN)
+Phrase 10010 (FP) 
+(FN)
+Phrase 19985 (FP) 
+(FN)
+Phrase 29995 (FP) 
+(FN)
+Phrase 38010 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 31990 (FP) 
+(FN)
+Phrase 40005 (FP) 
+(FN)
+Phrase 47985 (FP) 
+Phrase 52010 
+(FN)
+Phrase 59990 (FP) 
+(FN)
+Phrase 68005 (FP) 
+Phrase 8015 (FP) 
+(FN)
+Phrase 19985 
+Phrase 28000 (FP) 
+(FN)
+Phrase 40005 
+Phrase 47985 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 31990 
+(FN)
+Phrase 4515 (FP) 
+Phrase 10990 
+Phrase 19005 (FP) 
+(FN)
+Phrase 29995 
+Phrase 40005 
+(FN)
+Phrase 10010 (FP) 
+(FN)
+Phrase 17990 (FP) 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 36015 (FP) 
+(FN)
+Phrase 47985 
+Phrase 56000 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 
+(FN)
+Phrase 33005 (FP) 
+(FN)
+Phrase 40005 
+Phrase 10010 
+Phrase 19985 
+Phrase 31990 
+(FN)
+Phrase 43995 (FP) 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 5985 (FP) 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+(FN)
+Phrase 64015 (FP) 
+(FN)
+Phrase 71995 (FP) 
+Phrase 8015 
+(FN)
+Phrase 17010 (FP) 
+(FN)
+(FN)
+Phrase 33005 
+Phrase 45010 (FP) 
+(FN)
+(FN)
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 33005 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 (FP) 
+Phrase 52010 (FP) 
+Phrase 59990 (FP) 
+Phrase 68005 (FP) 
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 (FP) 
+(FN)
+Phrase 8015 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 (FP) 
+(FN)
+Phrase 19985 
+Phrase 28000 (FP) 
+(FN)
+Phrase 8995 
+(FN)
+Phrase 17010 (FP) 
+(FN)
+Phrase 24990 (FP) 
+Phrase 35000 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 8015 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+(FN)
+Phrase 19985 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+(FN)
+Phrase 47985 (FP) 
+(FN)
+Phrase 59990 (FP) 
+Phrase 66010 
+Phrase 78015 
+Phrase 87010 
+Phrase 99015 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+Phrase 12005 (FP) 
+(FN)
+Phrase 26985 
+Phrase 38990 
+Phrase 50995 
+Phrase 63000 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 (FP) 
+(FN)
+Phrase 26005 
+Phrase 33985 (FP) 
+(FN)
+Phrase 43995 
+Phrase 3990 (FP) 
+(FN)
+Phrase 12005 (FP) 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+Phrase 12005 
+(FN)
+Phrase 26985 (FP) 
+(FN)
+Phrase 38990 (FP) 
+Phrase 50995 
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 40005 
+Phrase 8015 
+(FN)
+Phrase 17010 (FP) 
+(FN)
+(FN)
+Phrase 33005 
+Phrase 45010 (FP) 
+(FN)
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+(FN)
+Phrase 35000 (FP) 
+(FN)
+Phrase 47005 (FP) 
+(FN)
+(FN)
+Phrase 59010 (FP) 
+(FN)
+Phrase 71015 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 50015 
+Phrase 57995 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+(FN)
+Phrase 50995 (FP) 
+(FN)
+Phrase 59010 (FP) 
+Phrase 66990 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+(FN)
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+(FN)
+Phrase 8015 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 47985 
+Phrase 56000 
+(FN)
+Phrase 8995 (FP) 
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+(FN)
+Phrase 33985 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+(FN)
+Phrase 19005 (FP) 
+(FN)
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 8015 
+Phrase 19985 
+Phrase 28000 
+Phrase 36015 
+Phrase 10010 
+Phrase 19985 
+Phrase 29995 
+Phrase 40005 
+(FN)
+(FN)
+Phrase 12005 (FP) 
+(FN)
+Phrase 24990 
+(FN)
+Phrase 33005 (FP) 
+Phrase 43015 
+(FN)
+(FN)
+Phrase 56000 (FP) 
+(FN)
+Phrase 19985 
+Phrase 36015 (FP) 
+Phrase 3990 
+(FN)
+Phrase 12005 
+Phrase 22995 (FP) 
+(FN)
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 43015 (FP) 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+(FN)
+Phrase 57015 (FP) 
+Phrase 3990 (FP) 
+(FN)
+Phrase 12985 (FP) 
+(FN)
+Phrase 24990 
+(FN)
+Phrase 33005 
+Phrase 45010 (FP) 
+(FN)
+Phrase 8015 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 26985 
+Phrase 33005 
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 31990 
+(FN)
+Phrase 43995 (FP) 
+(FN)
+Phrase 56000 
+(FN)
+Phrase 8015 
+Phrase 19985 
+Phrase 28000 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 8015 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 40005 
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 31990 
+Phrase 40005 
+(FN)
+Phrase 52010 (FP) 
+(FN)
+Phrase 12005 
+Phrase 24010 
+(FN)
+Phrase 36015 
+Phrase 43995 
+Phrase 52010 
+Phrase 59990 
+Phrase 12005 
+Phrase 24010 
+Phrase 36015 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+Phrase 5985 
+Phrase 12985 (FP) 
+(FN)
+Phrase 19005 (FP) 
+(FN)
+Phrase 26985 (FP) 
+(FN)
+(FN)
+Phrase 36015 (FP) 
+(FN)
+Phrase 43995 (FP) 
+(FN)
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 10010 
+Phrase 19985 
+Phrase 28000 
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 31990 
+(FN)
+(FN)
+Phrase 10010 (FP) 
+(FN)
+Phrase 17990 (FP) 
+(FN)
+Phrase 28000 (FP) 
+(FN)
+Phrase 36015 (FP) 
+(FN)
+Phrase 47985 
+Phrase 56000 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 5985 (FP) 
+(FN)
+Phrase 24010 
+Phrase 36015 
+(FN)
+Phrase 47985 (FP) 
+(FN)
+Phrase 59990 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 8015 
+Phrase 15995 
+(FN)
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+(FN)
+Phrase 42000 (FP) 
+(FN)
+Phrase 52010 (FP) 
+Phrase 5985 (FP) 
+(FN)
+Phrase 14000 (FP) 
+(FN)
+(FN)
+Phrase 22015 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+Phrase 8015 
+Phrase 15995 (FP) 
+(FN)
+Phrase 26005 
+Phrase 33985 (FP) 
+(FN)
+Phrase 43995 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+(FN)
+Phrase 57015 (FP) 
+Phrase 12005 
+Phrase 19985 
+Phrase 28000 
+Phrase 36015 
+Phrase 43995 
+Phrase 52010 
+(FN)
+Phrase 8995 (FP) 
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+(FN)
+Phrase 33985 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 8015 
+(FN)
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 (FP) 
+(FN)
+Phrase 10010 
+(FN)
+Phrase 17990 
+Phrase 26005 
+Phrase 36015 
+(FN)
+Phrase 43995 
+Phrase 19985 
+Phrase 36015 
+Phrase 56000 
+Phrase 71995 (FP) 
+Phrase 12005 
+Phrase 22015 (FP) 
+(FN)
+Phrase 33985 (FP) 
+(FN)
+Phrase 45990 
+Phrase 56000 
+Phrase 64015 
+Phrase 3990 
+(FN)
+Phrase 12005 
+Phrase 22995 (FP) 
+(FN)
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 43015 (FP) 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 24010 
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 47005 (FP) 
+Phrase 3990 (FP) 
+(FN)
+Phrase 15995 
+(FN)
+Phrase 31990 
+Phrase 40005 
+Phrase 12005 (FP) 
+(FN)
+(FN)
+Phrase 29995 (FP) 
+Phrase 42000 
+Phrase 54005 (FP) 
+Phrase 8015 
+Phrase 15995 
+Phrase 24010 
+Phrase 31990 
+Phrase 40005 
+Phrase 7000 (FP) 
+(FN)
+Phrase 15015 (FP) 
+(FN)
+Phrase 22995 (FP) 
+(FN)
+Phrase 31010 (FP) 
+(FN)
+Phrase 38990 (FP) 
+(FN)
+Phrase 49000 (FP) 
+Phrase 8015 
+Phrase 17010 
+Phrase 22995 (FP) 
+(FN)
+Phrase 31990 
+Phrase 40985 

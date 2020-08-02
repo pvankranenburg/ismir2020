@@ -1,0 +1,82 @@
+
+Options: -N 32 
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+(completesmeasuresong = True) and (IOIbeatfractionthirdfourth = -) and (IOIbeatfractionthird >= 1.333333) and (IOIbeatfractionfirst <= 1) => cadence_class=midcadence (2678.0/321.0)
+(completesmeasuresong = True) and (IOIbeatfractionthirdfourth = -) and (IOIbeatfractionfifth <= 1.5) and (IOIbeatfractionthird >= 1.5) and (beatstrengthfirst <= 0.5) => cadence_class=midcadence (46.0/12.0)
+(completesmeasuresong = True) and (IOIbeatfractionthirdfourth = -) and (beatcount <= 2) and (IOIbeatfractionfifth <= 0.75) and (beatstrengthfirst <= 0.25) and (beatstrengthsecond >= 1) => cadence_class=midcadence (258.0/25.0)
+(completesmeasuresong = True) and (IOIbeatfractionsecondthird = +) and (IOIbeatfractionfifth <= 1) and (beatstrengthfourth >= 1) and (IOIbeatfractionthirdfourth = -) => cadence_class=midcadence (366.0/69.0)
+(completesmeasuresong = True) and (IOIbeatfractionsecondthird = +) and (IOIbeatfractionfifth <= 1) and (onthebeatfirst = False) and (beatduration >= 1.5) and (IOIbeatfractionfirst <= 0.25) => cadence_class=midcadence (63.0/14.0)
+(completesmeasuresong = True) and (IOIbeatfractionsecondthird = +) and (IOIbeatfractionfifth <= 1) and (IOIbeatfractionfourthfifth = =) and (beatstrengthfifth >= 0.25) and (beatstrengthfourth <= 0.25) => cadence_class=midcadence (536.0/190.0)
+(completesmeasuresong = True) and (beatstrengththird >= 0.5) and (IOIbeatfractionfourthfifth = =) and (beatstrengthfirst <= 0.25) and (beatstrengthfifth >= 1) and (beatstrengthfourth <= 0.25) and (beatstrengthsecond >= 1) => cadence_class=midcadence (234.0/25.0)
+(completesmeasuresong = True) and (beatstrengththird >= 0.5) and (IOIbeatfractionfifth <= 0.75) and (beatcount <= 2) and (IOIbeatfractionfirstsecond = +) and (IOIbeatfractionthirdfourth = =) => cadence_class=midcadence (28.0/8.0)
+(completesmeasuresong = True) and (IOIbeatfractionsecondthird = +) and (IOIbeatfractionfifth <= 1) and (IOIbeatfractionfirstsecond = =) and (beatstrengththirdfourth = +) and (beatduration >= 1) and (IOIbeatfractionfirst >= 0.333333) => cadence_class=midcadence (116.0/21.0)
+(completesmeasuresong = True) and (IOIbeatfractionthirdfourth = -) and (IOIbeatfractionfifth <= 0.75) and (IOIbeatfractionsecondthird = +) and (beatcount <= 3) => cadence_class=midcadence (778.0/356.0)
+ => cadence_class=nocadence (65090.0/3641.0)
+
+Number of Rules : 11
+
+
+Time taken to build model: 21.52 seconds
+
+Time taken to test model on training data: 0.24 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances       65511               93.3298 %
+Incorrectly Classified Instances      4682                6.6702 %
+Kappa statistic                          0.5993
+Mean absolute error                      0.1191
+Root mean squared error                  0.244 
+Relative absolute error                 60.9389 %
+Root relative squared error             78.0651 %
+Total Number of Instances            70193     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,527    0,017    0,796      0,527    0,634      0,615    0,757     0,511     midcadence
+                 0,983    0,473    0,944      0,983    0,963      0,615    0,757     0,944     nocadence
+Weighted Avg.    0,933    0,423    0,928      0,933    0,927      0,615    0,757     0,896     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  4062  3641 |     a = midcadence
+  1041 61449 |     b = nocadence
+
+Time taken to perform cross-validation: 64.12 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances       65434               93.2201 %
+Incorrectly Classified Instances      4759                6.7799 %
+Kappa statistic                          0.5951
+Mean absolute error                      0.1203
+Root mean squared error                  0.2457
+Relative absolute error                 61.5778 %
+Root relative squared error             78.6156 %
+Total Number of Instances            70193     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,528    0,018    0,784      0,528    0,631      0,609    0,758     0,530     midcadence
+                 0,982    0,472    0,944      0,982    0,963      0,609    0,758     0,944     nocadence
+Weighted Avg.    0,932    0,422    0,926      0,932    0,926      0,609    0,758     0,899     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  4067  3636 |     a = midcadence
+  1123 61367 |     b = nocadence
+

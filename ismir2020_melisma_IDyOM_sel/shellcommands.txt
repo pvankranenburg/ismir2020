@@ -1,0 +1,46 @@
+melisma/notefiles/essen
+melisma/notefiles/mtcfsinst
+melisma/nbfiles/essen
+melisma/nbfiles/mtcfsinst
+melisma/boundaries/essen
+melisma/boundaries/mtcfsinst
+
+1. Generate .notes with Melisma.ipynb
+
+2. invoke meter -> .nb
+
+2b. insert phrase ends with Melisma.ipynb
+
+3. invoke grouper
+
+In parameters.txt:
+mode=1
+verbosity=0
+optimal_length=10.0
+
+$ ls -1 | sed -e 's/.nb//' | xargs -I fn echo "echo fn; grouper -p parameters.txt fn.nb > ../../boundaries/essen/fn.bd" > doehet.sh
+$ sh doehet.sh
+
+4. count TP, FP. FN
+
+$ ls -1 | grep bd | xargs -I fn sh -c "grep -E 'Phrase|FN' fn >> res.txt"
+$ wc -l res.txt
+$ grep -c FN res.txt
+$ grep -c FP res.txt
+$ grep -v FN res.txt | grep -c -v FP
+
+Missing from Temperley's corpus:
+cp: child05.bd: No such file or directory <-- not present in essen.zip
+cp: child53.bd: No such file or directory <-- not present in essen.zip
+cp: czech10.bd: No such file or directory <-- tick problem in krn2json
+cp: deut0206.bd: No such file or directory <-- not present in essen.zip
+cp: deut0214.bd: No such file or directory <-- not present in essen.zip
+cp: france03.bd: No such file or directory <-- tick problem in krn2json
+
+
+
+Peters-MBP-2:essen pvk$ grep -c FN res.txt 
+14024
+Peters-MBP-2:essen pvk$ grep -c FP res.txt 
+14829
+Peters-MBP-2:essen pvk$ 

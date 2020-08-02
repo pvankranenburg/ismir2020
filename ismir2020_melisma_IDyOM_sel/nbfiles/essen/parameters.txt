@@ -1,0 +1,3 @@
+mode=1
+verbosity=0
+optimal_length=10.0

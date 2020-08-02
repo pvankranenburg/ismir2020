@@ -1,0 +1,77 @@
+
+Options: -N 32 
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+(completesmeasuresong = True) and (IOIbeatfractionthirdfourth = -) and (IOIbeatfractionthird >= 2) and (IOIbeatfractionfirst <= 1.5) => cadence_class=midcadence (634.0/38.0)
+(completesmeasuresong = True) and (beatstrengththirdfourth = -) and (IOIbeatfractionfirstsecond = +) and (IOIbeatfractionsecond >= 2) and (IOIbeatfractionfifth <= 1.5) => cadence_class=midcadence (228.0/13.0)
+(completesmeasuresong = True) and (beatstrengththirdfourth = -) and (IOIbeatfractionfifth <= 1) and (IOIbeatfractionthirdfourth = =) and (beatstrengthfirst <= 0.125) => cadence_class=midcadence (135.0/30.0)
+(IOIbeatfractionthird >= 2) and (IOIbeatfractionfourthfifth = =) and (beatstrengthfirstsecond = +) => cadence_class=midcadence (168.0/46.0)
+(IOIbeatfractionthird >= 3) and (IOIbeatfractionfourthfifth = =) => cadence_class=midcadence (50.0/3.0)
+ => cadence_class=nocadence (16147.0/822.0)
+
+Number of Rules : 6
+
+
+Time taken to build model: 1.26 seconds
+
+Time taken to test model on training data: 0.06 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances       16410               94.5168 %
+Incorrectly Classified Instances       952                5.4832 %
+Kappa statistic                          0.6666
+Mean absolute error                      0.1023
+Root mean squared error                  0.2261
+Relative absolute error                 52.2836 %
+Root relative squared error             72.3139 %
+Total Number of Instances            17362     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,569    0,008    0,893      0,569    0,695      0,687    0,781     0,579     midcadence
+                 0,992    0,431    0,949      0,992    0,970      0,687    0,781     0,949     nocadence
+Weighted Avg.    0,945    0,385    0,943      0,945    0,940      0,687    0,781     0,908     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  1085   822 |     a = midcadence
+   130 15325 |     b = nocadence
+
+Time taken to perform cross-validation: 2.85 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances       16311               93.9465 %
+Incorrectly Classified Instances      1051                6.0535 %
+Kappa statistic                          0.6712
+Mean absolute error                      0.0969
+Root mean squared error                  0.2234
+Relative absolute error                 49.5624 %
+Root relative squared error             71.4394 %
+Total Number of Instances            17362     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,658    0,026    0,759      0,658    0,705      0,673    0,850     0,669     midcadence
+                 0,974    0,342    0,958      0,974    0,966      0,673    0,850     0,966     nocadence
+Weighted Avg.    0,939    0,308    0,937      0,939    0,938      0,673    0,850     0,934     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  1254   653 |     a = midcadence
+   398 15057 |     b = nocadence
+

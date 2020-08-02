@@ -1,0 +1,114 @@
+Beat      0  2
+Beat    175  0
+Beat    315  1
+Beat    490  0
+Beat    665  4
+Beat    805  0
+Beat    980  1
+Beat   1155  0
+Beat   1330  2
+Beat   1505  0
+Beat   1680  1
+Beat   1820  0
+Beat   1995  3
+Beat   2170  0
+Beat   2345  1
+Beat   2485  0
+Beat   2660  2
+Beat   2835  0
+Beat   3010  1
+Beat   3150  0
+Beat   3325  4
+Beat   3465  0
+Beat   3640  1
+Beat   3815  0
+Beat   3990  2
+Beat   4165  0
+Beat   4340  1
+Beat   4480  0
+Beat   4655  3
+Beat   4830  0
+Beat   5005  1
+Beat   5145  0
+Beat   5320  2
+Beat   5495  0
+Beat   5670  1
+Beat   5810  0
+Beat   5985  4
+Beat   6160  0
+Beat   6335  1
+Beat   6475  0
+Beat   6650  2
+Beat   6825  0
+Beat   7000  1
+Beat   7140  0
+Beat   7315  3
+Beat   7455  0
+Beat   7630  1
+Beat   7805  0
+Beat   7980  2
+Beat   8155  0
+Beat   8330  1
+Beat   8470  0
+Beat   8645  4
+Beat   8820  0
+Beat   8995  1
+Beat   9135  0
+Beat   9310  2
+Beat   9485  0
+Beat   9660  1
+Beat   9800  0
+Beat   9975  3
+Beat  10150  0
+Beat  10325  1
+Beat  10465  0
+Beat  10640  2
+Beat  10815  0
+Beat  10990  1
+Beat  11130  0
+Beat  11305  4
+Beat  11445  0
+Beat  11620  1
+Beat  11795  0
+Beat  11970  2
+Note      0    175  72
+Note    175    315  72
+Note    315    665  74
+Note    665   1155  72
+Note   1155   1330  74
+Note   1330   1680  74
+Note   1680   1995  76
+Note   1995   2345  78
+Note   2345   2660  74
+Note   2660   3010  76
+Note   3010   3325  74
+Note   3325   3675  72
+|
+Note   3990   4165  72
+Note   4165   4340  72
+Note   4340   4655  74
+Note   4655   5005  72
+Note   5005   5320  74
+Note   5320   5670  71
+Note   5670   5985  69
+Note   5985   6160  67
+Note   6160   6335  67
+Note   6335   6650  69
+Note   6650   7000  71
+Note   7000   7315  69
+Note   7315   7665  67
+|
+Note   7980   8085  72
+Note   8085   8155  72
+Note   8155   8330  72
+Note   8330   8645  74
+Note   8645   8995  76
+Note   8995   9310  78
+Note   9310   9660  74
+Note   9660   9975  76
+Note   9975  10325  78
+Note  10325  10990  74
+Note  10990  11305  72
+Note  11305  11970  69
+|
+

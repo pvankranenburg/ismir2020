@@ -1,0 +1,82 @@
+
+Options: -N 32 
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+(grouperthird = True) and (intervaldirthirdfourth = +) => cadence_class=midcadence (766.0/94.0)
+(grouperthird = True) and (lbdmthird >= 0.346769) and (informationcontentfourth >= 6.240818) and (lbdmfourth <= 0.333333) => cadence_class=midcadence (206.0/19.0)
+(beatstrengththird >= 0.5) and (pitchproximityfourth >= 3) and (beatstrengthfirst <= 0.25) and (beatstrengthsecond >= 0.5) and (gprsumthird >= 0.375) => cadence_class=midcadence (172.0/16.0)
+(beatstrengththird >= 0.5) and (beatstrengthfifth >= 1) and (lbdmfifth <= 0.058333) and (intervaldirthirdfourth = +) and (groupersecond = True) and (lbdmthird <= 0.184426) => cadence_class=midcadence (59.0/2.0)
+(beatstrengththird >= 0.5) and (grouperthird = True) and (beatstrengthfourth <= 0.25) and (informationcontentfourth >= 1.980743) => cadence_class=midcadence (155.0/44.0)
+(beatstrengththird >= 0.5) and (intervaldirthirdfourth = +) and (beatstrengthfirst <= 0.25) and (lbdmfifth <= 0.122727) and (beatstrengththird <= 0.5) and (pitchproximityfourth <= 0) => cadence_class=midcadence (56.0/4.0)
+(beatstrengththird >= 0.5) and (intervaldirthirdfourth = +) and (beatstrengthfifth >= 1) and (informationcontentsecond <= 2.339725) and (lbdmfifth <= 0.009821) => cadence_class=midcadence (54.0/17.0)
+(beatstrengththird >= 0.5) and (gprsumthird >= 0.25) and (beatstrengthfourth >= 1) and (beatstrengthfifth <= 0.25) => cadence_class=midcadence (134.0/44.0)
+(beatstrengththird >= 0.5) and (beatstrengthfifth >= 1) and (lbdmfifth <= 0.055) and (pitchproximitythird <= 1) and (informationcontentfirst <= 1.451652) => cadence_class=midcadence (87.0/35.0)
+(beatstrengththird >= 0.5) and (intervaldirthirdfourth = +) and (intervaldirfourthfifth = +) and (gprsumsecond <= 0.625) => cadence_class=midcadence (53.0/17.0)
+ => cadence_class=nocadence (15620.0/457.0)
+
+Number of Rules : 11
+
+
+Time taken to build model: 3.39 seconds
+
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances       16613               95.686  %
+Incorrectly Classified Instances       749                4.314  %
+Kappa statistic                          0.7707
+Mean absolute error                      0.077 
+Root mean squared error                  0.1962
+Relative absolute error                 39.3839 %
+Root relative squared error             62.7622 %
+Total Number of Instances            17362     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,760    0,019    0,832      0,760    0,795      0,772    0,873     0,708     midcadence
+                 0,981    0,240    0,971      0,981    0,976      0,772    0,873     0,970     nocadence
+Weighted Avg.    0,957    0,215    0,956      0,957    0,956      0,772    0,873     0,941     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  1450   457 |     a = midcadence
+   292 15163 |     b = nocadence
+
+Time taken to perform cross-validation: 8.54 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances       16520               95.1503 %
+Incorrectly Classified Instances       842                4.8497 %
+Kappa statistic                          0.7397
+Mean absolute error                      0.0824
+Root mean squared error                  0.2076
+Relative absolute error                 42.1384 %
+Root relative squared error             66.381  %
+Total Number of Instances            17362     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,725    0,021    0,813      0,725    0,767      0,741    0,863     0,695     midcadence
+                 0,979    0,275    0,967      0,979    0,973      0,741    0,863     0,969     nocadence
+Weighted Avg.    0,952    0,247    0,950      0,952    0,950      0,741    0,863     0,939     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  1383   524 |     a = midcadence
+   318 15137 |     b = nocadence
+

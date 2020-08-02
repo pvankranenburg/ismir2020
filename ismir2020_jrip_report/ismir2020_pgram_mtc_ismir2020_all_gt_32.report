@@ -1,0 +1,101 @@
+
+Options: -N 32 
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+(grouperthird = True) and (noteoffset >= 6) and (completesmeasurephrase = True) => cadence_class=midcadence (3234.0/245.0)
+(grouperthird = True) and (informationcontentfourth >= 8.289956) and (nextisrestthird = True) => cadence_class=midcadence (834.0/61.0)
+(noteoffset >= 6) and (IOIbeatfractionthirdfourth = -) and (completesmeasuresong = True) and (pitchproximityfourth >= 3) and (diatonicpitchthird <= 30) and (beatstrengthfourth <= 0.5) and (lbdmfifth <= 0.145153) => cadence_class=midcadence (122.0/8.0)
+(grouperthird = True) and (lbdmthird >= 0.286955) and (intervalfourth >= 0) and (beatoffset >= 5.25) and (IOIbeatfractionfifth <= 0.75) => cadence_class=midcadence (95.0/3.0)
+(grouperthird = True) and (noteoffset >= 5) and (completesmeasurephrase = True) and (lbdmthird >= 0.126405) => cadence_class=midcadence (245.0/42.0)
+(noteoffset >= 7) and (IOIbeatfractionthirdfourth = -) and (completesmeasuresong = True) and (lbdmfifth <= 0.295996) and (pitchproximityfourth >= 3) => cadence_class=midcadence (127.0/17.0)
+(noteoffset >= 7) and (completesmeasurephrase = True) and (IOIbeatfractionfifth <= 0.75) and (onthebeatthird = True) and (intervaldirthirdfourth = +) and (VosCenterGravitythird = True) => cadence_class=midcadence (168.0/19.0)
+(noteoffset >= 6) and (IOIbeatfractionthirdfourth = -) and (completesmeasuresong = True) and (grouperthird = True) and (intervaldirthirdfourth = +) => cadence_class=midcadence (44.0/3.0)
+(IOIbeatfractionthirdfourth = -) and (lbdmthird >= 0.355515) and (lbdmfifth <= 0.15625) and (noteoffset >= 7) and (gprsumthird >= 0.75) and (beatstrengthfifth >= 0.25) and (isascending = False) => cadence_class=midcadence (118.0/6.0)
+(noteoffset >= 6) and (IOIbeatfractionthirdfourth = -) and (grouperthird = True) and (beatstrengththird <= 0.5) and (informationcontentsecond >= 3.482668) and (informationcontentsecond <= 6.444369) => cadence_class=midcadence (70.0/10.0)
+(noteoffset >= 6) and (IOIbeatfractionthirdfourth = -) and (lbdmthird >= 0.243628) and (informationcontentfourth >= 6.382788) and (intervalfourth >= 0) and (IOIbeatfractionthird >= 1.333333) and (intervalfifth >= 0) and (lbdmfifth <= 0.191071) => cadence_class=midcadence (70.0/6.0)
+(noteoffset >= 6) and (completesmeasurephrase = True) and (beatstrengththirdfourth = -) and (lbdmfifth <= 0.18687) and (beatoffset >= 5.666667) and (lbdmthird >= 0.120968) => cadence_class=midcadence (92.0/10.0)
+(completesmeasurephrase = True) and (lbdmfifth <= 0.061808) and (onthebeatthird = True) and (lbdmthird >= 0.040179) and (noteoffset >= 7) and (lbdmfirst >= 0.054623) => cadence_class=midcadence (118.0/20.0)
+(noteoffset >= 6) and (completesmeasurephrase = True) and (IOIbeatfractionfifth <= 0.75) and (onthebeatthird = True) and (pitchproximityfourth >= 3) and (VosHarmonysecondthird = -) and (lbdmsecond >= 0.057557) => cadence_class=midcadence (37.0/4.0)
+(noteoffset >= 5) and (IOIbeatfractionthirdfourth = -) and (informationcontentfourth >= 7.263676) and (lbdmfifth <= 0.062097) and (lbdmthird >= 0.55483) => cadence_class=midcadence (26.0/3.0)
+(noteoffset >= 6) and (IOIbeatfractionthirdfourth = -) and (beatstrengththird <= 0.5) and (IOIbeatfractionfifth <= 0.75) and (lbdmthird >= 0.15609) and (informationcontentfourth >= 4.029504) and (intervalfourth >= -1) and (midipitchfirst >= 74) => cadence_class=midcadence (54.0/9.0)
+(noteoffset >= 6) and (completesmeasurephrase = True) and (IOIbeatfractionfifth <= 0.75) and (onthebeatthird = True) and (beatcount <= 2) and (beatoffset <= 3.666667) => cadence_class=midcadence (319.0/111.0)
+(noteoffset >= 6) and (beatstrengththird >= 0.5) and (lbdmthird >= 0.158642) and (beatstrengththird <= 0.5) and (IOIbeatfractionfifth <= 0.75) and (informationcontentfourth >= 5.258383) => cadence_class=midcadence (221.0/78.0)
+(beatoffset >= 3) and (IOIbeatfractionthirdfourth = -) and (lbdmthird >= 0.25) and (pitchproximityfourth >= 4) and (completesbeatsong = False) and (noteoffset >= 7) => cadence_class=midcadence (80.0/30.0)
+(completesmeasurephrase = True) and (lbdmfifth <= 0.062355) and (VosHarmonyfourth >= 4) and (noteoffset >= 7) and (pitchproximityfourth >= 5) => cadence_class=midcadence (51.0/15.0)
+(beatoffset >= 3) and (noteoffset >= 7) and (lbdmfourth <= 0.111336) and (beatstrengththird <= 0.5) and (lbdmthird >= 0.255878) and (scaledegreethird <= 3) => cadence_class=midcadence (35.0/9.0)
+(beatoffset >= 3) and (IOIbeatfractionthirdfourth = -) and (noteoffset >= 6) and (intervalfourth >= 0) and (completesmeasuresong = True) and (contourfourth = =) and (lbdmfifth <= 0.174117) => cadence_class=midcadence (67.0/16.0)
+(noteoffset >= 5) and (beatstrengththird >= 0.5) and (completesmeasuresong = True) and (lbdmfifth <= 0.25248) and (lbdmthird >= 0.182168) and (informationcontentfourth >= 5.03593) and (gprsumfourth <= 0.375) => cadence_class=midcadence (87.0/25.0)
+(noteoffset >= 6) and (completesmeasurephrase = True) and (diatonicpitchthirdfourth = =) and (lbdmfifth <= 0.216404) and (beatstrengthfifth >= 1) => cadence_class=midcadence (105.0/52.0)
+(beatoffset >= 3) and (IOIbeatfractionthirdfourth = -) and (IOIbeatfractionfifth <= 0.666667) and (noteoffset >= 7) and (beatstrengththird <= 0.5) and (intervalfifth >= 0) and (registraldirectionchange = False) => cadence_class=midcadence (117.0/44.0)
+(noteoffset >= 5) and (beatstrengththird >= 0.5) and (intervaldirthirdfourth = +) and (lbdmthird >= 0.40873) and (IOIbeatfractionthird >= 1.5) => cadence_class=midcadence (58.0/14.0)
+(noteoffset >= 6) and (beatstrengththird >= 0.5) and (beatstrengththird <= 0.5) and (IOIbeatfractionfifth <= 0.75) and (intervalfourth >= 0) and (IOIbeatfractionthirdfourth = -) and (informationcontentthird >= 4.027596) => cadence_class=midcadence (67.0/33.0)
+(noteoffset >= 5) and (beatstrengththird >= 0.5) and (grouperthird = True) and (intervalfourth >= 0) and (gprsumthird >= 0.6) and (scaledegreethird <= 5) and (beatstrengthsecond >= 0.25) => cadence_class=midcadence (56.0/14.0)
+(beatoffset >= 2.833333) and (completesmeasuresong = True) and (noteoffset >= 7) and (intervaldirthirdfourth = +) and (VosHarmonyfourth >= 4) and (beatstrengthfourth <= 0.5) => cadence_class=midcadence (66.0/22.0)
+ => cadence_class=nocadence (64127.0/1200.0)
+
+Number of Rules : 30
+
+
+Time taken to build model: 142.5 seconds
+
+Time taken to test model on training data: 0.88 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances       68781               96.9976 %
+Incorrectly Classified Instances      2129                3.0024 %
+Kappa statistic                          0.8295
+Mean absolute error                      0.0534
+Root mean squared error                  0.1634
+Relative absolute error                 29.8172 %
+Root relative squared error             54.6065 %
+Total Number of Instances            70910     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,830    0,015    0,863      0,830    0,846      0,830    0,910     0,783     midcadence
+                 0,985    0,170    0,981      0,985    0,983      0,830    0,910     0,981     nocadence
+Weighted Avg.    0,970    0,155    0,970      0,970    0,970      0,830    0,910     0,961     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  5854  1200 |     a = midcadence
+   929 62927 |     b = nocadence
+
+Time taken to perform cross-validation: 367.42 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances       68388               96.4434 %
+Incorrectly Classified Instances      2522                3.5566 %
+Kappa statistic                          0.7976
+Mean absolute error                      0.0581
+Root mean squared error                  0.1759
+Relative absolute error                 32.4467 %
+Root relative squared error             58.767  %
+Total Number of Instances            70910     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,800    0,017    0,836      0,800    0,817      0,798    0,896     0,782     midcadence
+                 0,983    0,200    0,978      0,983    0,980      0,798    0,896     0,978     nocadence
+Weighted Avg.    0,964    0,182    0,964      0,964    0,964      0,798    0,896     0,958     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  5640  1414 |     a = midcadence
+  1108 62748 |     b = nocadence
+

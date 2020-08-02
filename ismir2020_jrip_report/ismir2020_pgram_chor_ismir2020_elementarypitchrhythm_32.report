@@ -1,0 +1,84 @@
+
+Options: -N 32 
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+(completesmeasuresong = True) and (intervaldirthirdfourth = +) and (IOIbeatfractionfourthfifth = =) and (IOIbeatfractionfirstsecond = +) and (beatstrengththirdfourth = -) => cadence_class=midcadence (257.0/10.0)
+(completesmeasuresong = True) and (IOIbeatfractionthird >= 2) and (IOIbeatfractionfourthfifth = =) and (beatstrengthsecond <= 0.25) => cadence_class=midcadence (368.0/4.0)
+(completesmeasuresong = True) and (VosHarmonyfourth >= 4) and (contourfourth = +) and (contourfirst = -) => cadence_class=midcadence (255.0/42.0)
+(completesmeasuresong = True) and (VosHarmonyfourth <= 0) and (IOIbeatfractionfifth <= 1) and (beatstrengthfourth <= 0.25) => cadence_class=midcadence (320.0/79.0)
+(completesmeasuresong = True) and (VosHarmonyfourth >= 4) and (IOIbeatfractionfirstsecond = +) and (diatonicpitchthird <= 30) and (contoursecond = -) => cadence_class=midcadence (47.0/3.0)
+(completesmeasuresong = True) and (intervalfourth >= 0) and (beatstrengththird >= 0.5) and (IOIbeatfractionfourthfifth = =) and (VosHarmonyfifth <= 0) and (VosCenterGravityfourth = False) => cadence_class=midcadence (40.0/3.0)
+(IOIbeatfractionthird >= 2) and (intervaldirthirdfourth = +) and (beatstrengthfirstsecond = +) and (beatcount >= 4) => cadence_class=midcadence (137.0/5.0)
+(IOIbeatfractionthird >= 2) and (intervaldirthirdfourth = +) and (VosHarmonyfourth >= 4) => cadence_class=midcadence (50.0/6.0)
+(completesmeasuresong = True) and (VosHarmonyfourth >= 4) and (intervaldirfirstsecond = -) and (intervalthird <= 1) => cadence_class=midcadence (144.0/67.0)
+(IOIbeatfractionthird >= 3) and (IOIbeatfractionfourthfifth = =) => cadence_class=midcadence (40.0/4.0)
+(IOIbeatfractionthird >= 3) and (intervalfourth >= 0) => cadence_class=midcadence (21.0/6.0)
+(completesmeasuresong = True) and (beatstrengththirdfourth = -) and (IOIbeatfractionfirstsecond = +) and (beatstrengthsecond >= 0.5) => cadence_class=midcadence (73.0/20.0)
+ => cadence_class=nocadence (15610.0/404.0)
+
+Number of Rules : 13
+
+
+Time taken to build model: 4.36 seconds
+
+Time taken to test model on training data: 0.17 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances       16709               96.2389 %
+Incorrectly Classified Instances       653                3.7611 %
+Kappa statistic                          0.8006
+Mean absolute error                      0.0663
+Root mean squared error                  0.1821
+Relative absolute error                 33.9021 %
+Root relative squared error             58.2307 %
+Total Number of Instances            17362     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,788    0,016    0,858      0,788    0,822      0,801    0,890     0,772     midcadence
+                 0,984    0,212    0,974      0,984    0,979      0,801    0,890     0,974     nocadence
+Weighted Avg.    0,962    0,190    0,961      0,962    0,962      0,801    0,890     0,952     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  1503   404 |     a = midcadence
+   249 15206 |     b = nocadence
+
+Time taken to perform cross-validation: 13.24 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances       16619               95.7205 %
+Incorrectly Classified Instances       743                4.2795 %
+Kappa statistic                          0.7707
+Mean absolute error                      0.0722
+Root mean squared error                  0.1948
+Relative absolute error                 36.9379 %
+Root relative squared error             62.2968 %
+Total Number of Instances            17362     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,753    0,018    0,841      0,753    0,794      0,772    0,879     0,752     midcadence
+                 0,982    0,247    0,970      0,982    0,976      0,772    0,879     0,972     nocadence
+Weighted Avg.    0,957    0,222    0,956      0,957    0,956      0,772    0,879     0,948     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  1436   471 |     a = midcadence
+   272 15183 |     b = nocadence
+

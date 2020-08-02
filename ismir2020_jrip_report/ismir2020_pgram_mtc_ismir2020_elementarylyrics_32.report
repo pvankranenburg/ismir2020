@@ -1,0 +1,87 @@
+
+Options: -N 32 
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+(rhymesthird = True) and (rhyme_noteoffset >= 5) and (noncontentwordfourth = True) and (wordstresssecond = False) => cadence_class=midcadence (1069.0/254.0)
+(rhymesthird = True) and (wordendfirst = False) and (wordstresssecondthird = -) and (rhyme_noteoffset >= 7) => cadence_class=midcadence (418.0/89.0)
+(rhymesthird = True) and (wordstressfifth = True) and (wordstresssecond = False) and (melismastatesecond = end) and (rhymesfifth = False) and (rhyme_noteoffset >= 5) => cadence_class=midcadence (402.0/119.0)
+(rhymesthird = True) and (noncontentwordfourth = True) and (wordendsecond = False) and (wordstressfirst = False) and (rhyme_noteoffset >= 5) and (wordstressfourthfifth = =) => cadence_class=midcadence (200.0/53.0)
+(rhymesthird = True) and (noncontentwordfourth = True) and (rhyme_noteoffset <= 7) and (rhyme_noteoffset >= 5) and (wordstressthirdfourth = =) => cadence_class=midcadence (215.0/89.0)
+(rhymesthird = True) and (rhyme_beatoffset >= 1) and (wordendfirst = False) and (wordendsecond = False) and (wordendfourth = True) => cadence_class=midcadence (695.0/285.0)
+(rhymesthird = True) and (rhyme_beatoffset >= 1) and (rhyme_noteoffset >= 4) and (wordendfourth = True) and (rhymesfifth = False) and (wordstresssecond = False) => cadence_class=midcadence (238.0/106.0)
+(rhymesthird = True) and (rhyme_beatoffset >= 1) and (noncontentwordfourth = True) and (wordendsecond = False) and (noncontentwordfirst = False) and (wordstressfifth = True) => cadence_class=midcadence (209.0/66.0)
+(rhymesthird = True) and (rhyme_noteoffset >= 6) and (rhyme_beatoffset <= 3.666667) and (rhymesfifth = False) => cadence_class=midcadence (289.0/113.0)
+(rhymesthird = True) and (rhyme_beatoffset >= 4) and (wordendsecond = False) and (rhymesfifth = False) and (rhyme_noteoffset <= 8) => cadence_class=midcadence (267.0/130.0)
+(rhymesthird = True) and (rhyme_beatoffset >= 6) and (rhyme_beatoffset <= 7.333333) and (rhyme_noteoffset >= 10) => cadence_class=midcadence (159.0/70.0)
+(wordendthird = True) and (noncontentwordthird = False) and (rhyme_noteoffset >= 6) and (noncontentwordfourth = True) and (wordendfirst = False) and (wordstressthird = False) and (wordstressfifth = True) => cadence_class=midcadence (333.0/110.0)
+(rhymesthird = True) and (wordstressfifth = True) and (rhyme_noteoffset >= 5) and (wordstressfirstsecond = =) and (rhyme_beatoffset <= 4.333333) and (rhyme_beatoffset >= 2.333333) => cadence_class=midcadence (94.0/41.0)
+(rhymesthird = True) and (rhyme_beatoffset >= 1) and (noncontentwordfourth = True) and (rhyme_beatoffset <= 1.333333) and (rhyme_noteoffset >= 3) => cadence_class=midcadence (110.0/49.0)
+(rhymesthird = True) and (wordstresssecond = False) and (noncontentwordfourth = True) and (wordendsecond = False) and (melismastatesecond = end) => cadence_class=midcadence (135.0/63.0)
+ => cadence_class=nocadence (66077.0/3858.0)
+
+Number of Rules : 16
+
+
+Time taken to build model: 30.98 seconds
+
+Time taken to test model on training data: 0.39 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances       65415               92.2507 %
+Incorrectly Classified Instances      5495                7.7493 %
+Kappa statistic                          0.497 
+Mean absolute error                      0.1319
+Root mean squared error                  0.2568
+Relative absolute error                 73.6024 %
+Root relative squared error             85.794  %
+Total Number of Instances            70910     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,453    0,026    0,661      0,453    0,538      0,508    0,715     0,388     midcadence
+                 0,974    0,547    0,942      0,974    0,958      0,508    0,715     0,941     nocadence
+Weighted Avg.    0,923    0,495    0,914      0,923    0,916      0,508    0,715     0,886     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  3196  3858 |     a = midcadence
+  1637 62219 |     b = nocadence
+
+Time taken to perform cross-validation: 98.77 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances       65071               91.7656 %
+Incorrectly Classified Instances      5839                8.2344 %
+Kappa statistic                          0.4398
+Mean absolute error                      0.1388
+Root mean squared error                  0.2653
+Relative absolute error                 77.443  %
+Root relative squared error             88.6227 %
+Total Number of Instances            70910     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,384    0,023    0,644      0,384    0,481      0,457    0,684     0,365     midcadence
+                 0,977    0,616    0,935      0,977    0,955      0,457    0,684     0,935     nocadence
+Weighted Avg.    0,918    0,557    0,906      0,918    0,908      0,457    0,684     0,879     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  2711  4343 |     a = midcadence
+  1496 62360 |     b = nocadence
+

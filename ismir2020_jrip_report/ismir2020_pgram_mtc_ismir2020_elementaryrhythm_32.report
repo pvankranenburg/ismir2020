@@ -1,0 +1,88 @@
+
+Options: -N 32 
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+(IOIbeatfractionthirdfourth = -) and (completesmeasuresong = True) and (IOIbeatfractionthird >= 1.25) and (meternumerator >= 4) and (IOIbeatfractionfirst <= 0.75) => cadence_class=midcadence (813.0/62.0)
+(IOIbeatfractionthirdfourth = -) and (completesmeasuresong = True) and (IOIbeatfractionthird >= 1.25) and (beatstrengthfourthfifth = -) and (beatstrengthsecondthird = +) => cadence_class=midcadence (622.0/70.0)
+(IOIbeatfractionthirdfourth = -) and (completesmeasuresong = True) and (IOIbeatfractionthird >= 0.833333) and (beatcount <= 2) and (IOIbeatfractionfirst <= 0.75) and (beatstrengththirdfourth = +) => cadence_class=midcadence (354.0/55.0)
+(IOIbeatfractionthirdfourth = -) and (completesmeasuresong = True) and (beatstrengthfirst <= 0.5) and (IOIbeatfractionthird >= 1.5) and (IOIbeatfractionfifth <= 1.333333) => cadence_class=midcadence (589.0/138.0)
+(IOIbeatfractionthirdfourth = -) and (completesmeasuresong = True) and (IOIbeatfractionfifth <= 0.5) and (IOIbeatfractionsecondthird = +) and (onthebeatfirst = False) and (IOIbeatfractionthird >= 0.666667) => cadence_class=midcadence (350.0/96.0)
+(IOIbeatfractionthirdfourth = -) and (IOIbeatfractionthird >= 1.666667) and (completesbeatsong = False) and (beatcount <= 2) => cadence_class=midcadence (210.0/28.0)
+(IOIbeatfractionthirdfourth = -) and (completesmeasuresong = True) and (IOIbeatfractionsecondthird = +) and (IOIbeatfractionfifth <= 0.5) and (beatstrengthfirst >= 0.5) => cadence_class=midcadence (594.0/244.0)
+(IOIbeatfractionthirdfourth = -) and (IOIbeatfractionthird >= 1) and (beatstrengththird <= 0.5) and (IOIbeatfractionsecondthird = +) and (beatstrengthfourth >= 0.5) => cadence_class=midcadence (376.0/103.0)
+(IOIbeatfractionthirdfourth = -) and (completesmeasuresong = True) and (IOIbeatfractionfifth <= 0.5) and (meternumerator >= 5) and (IOIbeatfractionfirst <= 0.5) and (beatstrengththirdfourth = -) => cadence_class=midcadence (69.0/21.0)
+(IOIbeatfractionthirdfourth = -) and (IOIbeatfractionthird >= 1.666667) and (IOIbeatfractionfourth <= 0.75) => cadence_class=midcadence (335.0/133.0)
+(completesmeasuresong = True) and (onthebeatthird = True) and (IOIbeatfractionfifth <= 0.75) and (IOIbeatfractionsecondthird = -) and (beatstrengthfirst <= 0.25) and (beatstrengthfifth <= 0.25) and (beatstrengthfourth <= 0.25) => cadence_class=midcadence (66.0/19.0)
+(IOIbeatfractionthirdfourth = -) and (completesmeasuresong = True) and (IOIbeatfractionthird >= 1) and (IOIbeatfractionsecondthird = +) and (IOIbeatfractionfifth <= 1.5) and (onthebeatsecond = True) => cadence_class=midcadence (114.0/36.0)
+(IOIbeatfractionthirdfourth = -) and (completesmeasuresong = True) and (IOIbeatfractionfifth <= 0.666667) and (beatstrengthfifth >= 1) and (beatstrengthfirst <= 0.25) => cadence_class=midcadence (162.0/74.0)
+(completesmeasuresong = True) and (onthebeatthird = True) and (IOIbeatfractionfifth <= 0.75) and (IOIbeatfractionfirst <= 0.666667) and (IOIbeatfractionsecondthird = +) and (IOIbeatfractionfourthfifth = -) => cadence_class=midcadence (131.0/59.0)
+(IOIbeatfractionthirdfourth = -) and (IOIbeatfractionthird >= 0.833333) and (beatstrengththird <= 0.5) and (beatstrengthfourth <= 0.25) and (IOIbeatfractionfifth <= 0.666667) and (beatstrengthfourthfifth = +) => cadence_class=midcadence (193.0/74.0)
+(completesmeasuresong = True) and (beatstrengththirdfourth = -) and (IOIbeatfractionfifth <= 0.75) and (beatstrengthfifth >= 1) and (onthebeatfirst = False) and (beatstrengthsecondthird = -) => cadence_class=midcadence (142.0/61.0)
+ => cadence_class=nocadence (65790.0/3207.0)
+
+Number of Rules : 17
+
+
+Time taken to build model: 40.33 seconds
+
+Time taken to test model on training data: 0.28 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances       66430               93.6821 %
+Incorrectly Classified Instances      4480                6.3179 %
+Kappa statistic                          0.5984
+Mean absolute error                      0.1106
+Root mean squared error                  0.2351
+Relative absolute error                 61.7179 %
+Root relative squared error             78.5627 %
+Total Number of Instances            70910     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,545    0,020    0,751      0,545    0,632      0,608    0,765     0,515     midcadence
+                 0,980    0,455    0,951      0,980    0,965      0,608    0,765     0,951     nocadence
+Weighted Avg.    0,937    0,411    0,931      0,937    0,932      0,608    0,765     0,907     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  3847  3207 |     a = midcadence
+  1273 62583 |     b = nocadence
+
+Time taken to perform cross-validation: 91.94 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances       66380               93.6116 %
+Incorrectly Classified Instances      4530                6.3884 %
+Kappa statistic                          0.5904
+Mean absolute error                      0.1118
+Root mean squared error                  0.2373
+Relative absolute error                 62.3862 %
+Root relative squared error             79.283  %
+Total Number of Instances            70910     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,533    0,019    0,752      0,533    0,624      0,601    0,761     0,523     midcadence
+                 0,981    0,467    0,950      0,981    0,965      0,601    0,761     0,950     nocadence
+Weighted Avg.    0,936    0,422    0,930      0,936    0,931      0,601    0,761     0,908     
+
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+  3763  3291 |     a = midcadence
+  1239 62617 |     b = nocadence
+

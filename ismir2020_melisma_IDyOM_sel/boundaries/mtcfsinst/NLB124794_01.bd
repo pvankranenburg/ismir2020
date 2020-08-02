@@ -1,0 +1,18 @@
+Note 0 350 67
+Note 350 665 72
+Note 665 1015 72
+Note 1015 1330 72
+Note 1330 1680 72
+Note 1680 1995 74
+Note 1995 2345 72
+Note 2345 3325 72
+Phrase 3325 (FP) 
+Note 3325 3990 67
+(FN)
+Note 3990 4340 67
+Note 4340 5005 72
+Note 5005 5320 72
+Note 5320 5985 72
+Note 5985 6335 72
+Note 6335 7000 72
+1 false negatives, 1 false positives
