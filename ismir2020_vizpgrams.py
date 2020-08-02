@@ -1,4 +1,5 @@
 from music21 import *
+humdrum.spineParser.flavors['JRP'] = True
 import os
 import csv
 import shutil
